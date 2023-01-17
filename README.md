@@ -60,7 +60,8 @@ Recientemente graduado en desarrollo web Full Stack en SoyHenry, también tengo 
 </a>
 <a href="https://github.com/https://github.com/Gonzalo-Aruquipa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+  <p> Email : gonzao777info@gmail.com</p>
 </div>  
   
 
