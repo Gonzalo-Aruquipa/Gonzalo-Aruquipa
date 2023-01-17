@@ -109,4 +109,4 @@ Realizo diferentes proyectos con ReactJS, Redux, JavaScript, NodeJS, Express, Mo
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
