@@ -16,6 +16,11 @@ Me gradué en el año 2021 en Ingeniería Informática, trabajé como freelance 
 
 <br />
 
+### <div align="center">👉👨‍💻¿Qué hago actualmente?
+Realizo diferentes proyectos con ReactJS, Redux, JavaScript, NodeJS, Express, MongoDB, SQL.</div>  
+
+<br />
+
 
 ## Tecnologías que uso 
 <table><tr><td valign="top" width="33%">
