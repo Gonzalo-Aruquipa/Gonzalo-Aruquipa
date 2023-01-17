@@ -11,6 +11,20 @@ Recientemente graduado en desarrollo web Full Stack en SoyHenry, también tengo 
   
 
 <br/>  
+### <div align="center">¿De dónde vengo?
+Me gradué en el año 2021 en Ingeniería Informática, trabajé como freelance con tecnologías como PHP, JavaScript, Bootstrap.</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### <div align="center">¿De dónde vengo?
+Me gradué en el año 2021 en Ingeniería Informática, trabajé como freelance con tecnologías como PHP, JavaScript, Bootstrap.</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 ## Tecnologías que uso 
