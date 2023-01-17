@@ -11,6 +11,8 @@ Recientemente graduado en desarrollo web Full Stack en SoyHenry, también tengo 
   
 
 <br/>  
+
+
 ### <div align="center">👉¿De dónde vengo?
 Me gradué en el año 2021 en Ingeniería Informática, trabajé como freelance con tecnologías como PHP, JavaScript, Bootstrap.</div>  
 
