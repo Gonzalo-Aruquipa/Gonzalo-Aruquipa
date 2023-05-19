@@ -5,7 +5,7 @@
   
 
 ### <div align="center">👋 ¿Quién soy?
-Recientemente graduado en desarrollo web Full Stack en SoyHenry, también tengo una licenciatura en Ingeniería informática de la Universidad Mayor de San Andrés. Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas. </div>  
+Graduado en desarrollo web Full Stack en SoyHenry Argentina, también tengo una licenciatura en Ingeniería informática de la Universidad Mayor de San Andrés. Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas. </div>  
   
 
 <br/>  
