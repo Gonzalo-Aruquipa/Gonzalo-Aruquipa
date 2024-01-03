@@ -5,14 +5,14 @@
   
 
 ### <div align="center">👋 ¿Quién soy?
-Graduado en desarrollo web Full Stack en SoyHenry Argentina, también tengo una licenciatura en Ingeniería informática de la Universidad Mayor de San Andrés. Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas. </div>  
+Licenciado en Ingeniería informática de la Universidad Mayor de San Andrés y graduado del bootcamp SoyHenry Argentina . Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas. </div>  
   
 
 <br/>  
 
 
 ### <div align="center">👉¿De dónde vengo?
-Me gradué en el año 2021 en Ingeniería Informática, trabajé como freelance con tecnologías como PHP, JavaScript, Bootstrap.</div>  
+Me gradué en el año 2021 en Ingeniería Informática, hice un bootcamp el 2022-2023, trabajé como freelance con tecnologías como PHP, JavaScript, Bootstrap.</div>  
 
 <br />
 
