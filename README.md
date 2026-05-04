@@ -65,7 +65,7 @@ Actualmente enfocado en construir aplicaciones con arquitecturas escalables y bu
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
----
+
 
 ## 📝 Entradas recientes del blog  
 
