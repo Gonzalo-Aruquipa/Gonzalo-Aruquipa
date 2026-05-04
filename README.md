@@ -39,7 +39,7 @@ Actualmente enfocado en construir aplicaciones con arquitecturas escalables y bu
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gonzalo-Aruquipa&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gonzalo-Aruquipa&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </p>
 
 ---
