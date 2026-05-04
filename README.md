@@ -75,13 +75,6 @@ Actualmente enfocado en construir aplicaciones con arquitecturas escalables y bu
 
 <br/>
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/rishavanand" target="_blank">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
-</a>
-</div>
-
-<br/>
 
 ---
 
