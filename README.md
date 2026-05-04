@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gonzalo Aruquipa
 
-💻 Ingeniero Informático | Full Stack Developer  
+💻 Licenciado en Informática | Full Stack Developer | Soporte Técnico Hardware y Redes
 📍 Bolivia  
 
 ---
@@ -33,6 +33,14 @@ Actualmente enfocado en construir aplicaciones con arquitecturas escalables y bu
 - 🔭 Trabajando con **TypeScript y NestJS**
 - 🌱 Aprendiendo arquitectura backend y buenas prácticas
 - ⚡ Interesado en sistemas escalables y rendimiento
+
+---
+## 🛠️ Soporte Técnico
+
+- 🔧 Mantenimiento y reparación de equipos
+- 🖥️ Diagnóstico de hardware y software
+- ⚙️ Instalación de sistemas operativos
+- 🌐 Configuración de redes básicas
 
 ---
 
