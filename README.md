@@ -57,10 +57,32 @@ Actualmente enfocado en construir aplicaciones con arquitecturas escalables y bu
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
-## 📝 Entradas recientes
+---
 
-- 🚀 Próximamente estaré compartiendo artículos sobre desarrollo backend
-- ⚙️ Node.js, NestJS y arquitectura
-- 🔐 Buenas prácticas y seguridad
+## 📝 Entradas recientes del blog  
+
+<br/>
+
+- 🚀 Próximamente estaré compartiendo contenido sobre backend  
+- ⚙️ Node.js, NestJS y arquitectura escalable  
+- 🔐 Buenas prácticas y seguridad  
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Gonzalo-Aruquipa&style=flat-square" />
+</div>  
+
+<br/>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/rishavanand" target="_blank">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" />
+</a>
+</div>
+
+<br/>
+
+---
 
 
